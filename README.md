@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My name is Zachery
-I'm a ECU Software Engineering student
+I'm a ECU Software Engineering graduate student
 
 <!--
 **NoodlesRU/NoodlesRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
